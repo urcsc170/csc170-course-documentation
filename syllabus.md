@@ -13,7 +13,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 - Section: **CSC 170-1**
 - Title: **Intro to Web Development**
 - Credits: **4.0**
-- Schedule: **Tuesdays and Thursdays at 3:25 PM EST** with support for **real-time** (synchronous) and **delayed** (asynchronous) participation (details in the [*Participation*](#participation) section, below)
+- Schedule: **Mondays, Wednesdays, and Fridays at 9:00 AM EDT** via **Zoom** with support for *delayed* (asynchronous) participation via **Panopto** for students who qualify
 
 ## Course Information and Announcements
 
@@ -32,17 +32,15 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 - Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>University of Rochester<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
 - **Messaging/Office Hours**
   - e-mail: **<robert.kostin@rochester.edu>** - not recommended due to excessive incoming messages, instead...
-  - For faster reply, please use **Slack** to [send a DM to Professor Kostin](https://app.slack.com/client/T01HQCN33FX/D01J64BQV25)
+  - For faster reply, please use **Slack** to [send a DM to Professor Kostin](https://app.slack.com/client/T02241Y7CP9/D022XDBCH2M)
   - For real-time discussions about non-technical matters (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
 
 
-### Teaching Assistants
+### Teaching Assistant
 
-The TAs will be available online to present assignments, provide suggestions, and answer questions via [our #help channel in Slack](https://app.slack.com/client/T01HQCN33FX/C01HLMSE5SA) and during scheduled **TA Office Hours** (to be announced in Slack)
+The TA will be available online to provide suggestions, and answer questions via [our #help channel in Slack](https://app.slack.com/client/T02241Y7CP9/C0238JT3WHE)
 
-| ![robert-petrosyan](media/robert-petrosyan.jpg)<br/>**Robert Petrosyan** | ![dominique-dorvil](media/dominique-dorvil.jpg)<br/>Dominique Dorvil | ![paterne-iradukunda](media/paterne-iradukunda.jpg)<br/>**Kunda Iradukunda** |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![mariam-turmanidze](media/mariam-turmanidze.jpg)<br/>**Mariam Turmanidze** | ![paterne-iradukunda](media/michael-bashner.jpg)<br/>**Michael Bashner** | ![paterne-iradukunda](media/umar-mutwafy.png)<br/>**Umar Mutwafy** |
+![paterne-iradukunda](media/umar-mutwafy.png)<br/>**Umar Mutwafy (TA)**
 
 ## Grading
 
@@ -74,13 +72,7 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 *Note: there are no exams in CSC 170; the results of the three projects will be the primary assessment tool to determine the student's proficiency with the course material*
 
-### Participation
 
-- As scheduled, students are required to watch pre-recorded lectures ([via Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%227902c9a7-774e-42c4-917e-ac770012001a%22))
-
-- Pre-recorded lectures must be watched by students within 24 hours of publication
-
-  *Students who neglect to watch the lecture videos on-time will be denied help when asked, and will receive neither flexibility with due dates nor a chance to get assignments re-graded*
 
 ## Texts and Materials
 
