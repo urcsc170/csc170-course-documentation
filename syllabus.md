@@ -110,7 +110,7 @@ While working on a lab or project assignment, students may need to ask questions
 
 2. The student will check what they've uploaded to the server in a web browser and copy the URL
 
-3. The student will go to the [#help channel in Slack](https://app.slack.com/client/T01HQCN33FX/C01HLMSE5SA) and create a post to ask a SPECIFIC question, and paste the URL
+3. The student will go to the [#help channel in Slack](https://app.slack.com/client/T02241Y7CP9/C0238JT3WHE) and create a post to ask a SPECIFIC question, and paste the URL
 
 ...one of the TAs will *start a thread* on the student's post to answer the question
 
