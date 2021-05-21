@@ -1,13 +1,5 @@
 # Course Syllabus:<br>CSC 170 - Introduction to Web Development
 
-
-
-*\* need to update for the 2021 Summer semester!*
-
-
-
-
-
 An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
 - Section: **CSC 170-1**
