@@ -59,8 +59,9 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Participation** (attendance)<br>Each lecture/lab session ("class") will require some level of interactivity and discussion, therefore each class must be attended.  There will be 17 scheduled class meetings, each of which will count equally toward the total of 10%.  Exemptions to miss a class and follow-up by watching the recorded session within 24 hours will be granted on a case-by-case basis. | **10%**<br>Attendance at each class will be worth about 1.0% of the overall grade |
 | **Lab Assignments**<br>There is lab work once or twice a week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 1.6% of the overall grade |
-| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **70%**<br/>Project 1: 10%<br>Project 2: 35%<br>Project 3: 25% |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **60%**<br/>Project 1: 10%<br>Project 2: 30%<br>Project 3: 20% |
 
 *Note: there are no exams in CSC 170; the results of the three projects will be the primary assessment tool to determine the student's proficiency with the course material*
 
