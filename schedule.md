@@ -4,7 +4,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 | Lecture | Date | Lecture part 1<br>9:00 - 10:15 AM (75 min followed by 20 min break) | Assignment | Lecture part 2<br>10:35 - 11:50 AM (75 min) | Assignment |
 | ------- | ---- | -------------- | ---------- | -------------- | ---------- |
-| 1 | Monday, May 24, 2021 | Introduction to CSC 170 | Lab 0: Course Tools | Introduction to the Industry | No new lab assignment |
+| 1 | Monday, May 24, 2021 | Introduction to CSC 170 ([PDF](01a-intro-to-csc170/intro-csc170.pdf)) | [Lab 0: Course Tools](lab00-course-tools/instructions.md) | Introduction to the Industry ([PDF](01b-intro-to-the-industry/intro-industry.pdf)) and [What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc) | No new lab assignment |
 | 2 | Wednesday, May 26, 2021 | The Internet | Lab 1: Account Setup | Lab 2 Workshop | Lab 2: First HTML Webpage |
 | 3 | Friday, May 28, 2021 | The Web and HTML | Lab 3: Content Prep | Web Document Structure | Lab 4: Structured HTML Document |
 | | Monday, May 31, 2021 | Memorial Day | -- | -- | -- |

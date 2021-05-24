@@ -1,14 +1,16 @@
 # Lab 0: Course Tools
 
-*Due: Tuesday, February 2, 2021* 
+*Due date: Monday, May 24, 2021* 
 
-Your assignment is to simply be aware of how we'll communicate this semester, and to setup your access to our "Slack Workspace"
+*You'll notice that the due "date" does not come with a due "time" because we're spread out over multiple time zones.  When you see a due date, just remember: you need to complete the assignment within about 24 hours of that date based on whatever timezone you're in.  If you need more time than that, just send a DM to the professor in Slack **before** the due date and make a request.*
+
+**GOAL OF LAB 0:** Your assignment is to simply be aware of how we'll communicate this semester, and to setup your access to our "Slack Workspace"
 
 ## A Quick Poll
 
 First of all, answer a few questions just to see what we're working with this semester: 
 
-- [CSC 170 Polling Questions (Google Poll)](https://forms.gle/XziMiuBseRwTzERX8)
+- [CSC 170 Polling Questions (Google Poll)](https://forms.gle/ifQiJAPuMf5YMwYY6)
 
 ...then come back here to continue.
 
@@ -18,7 +20,7 @@ The "Course Documentation" website (where you're reading these instructions now)
 
 So bookmark this address and check it often: [docs.csc170.org](https://docs.csc170.org)
 
-Also note, whenever something important is added to the Course Documentation website, you'll see an announcement in the [#announcements channel in Slack](https://app.slack.com/client/T01HQCN33FX/C01J64BR073)
+Also note, whenever something important is added to the Course Documentation website, you'll see an announcement in the [#announcements channel in Slack](https://app.slack.com/client/T02241Y7CP9/C022C1RFRB8)
 
 ## The CSC 170 Workspace in Slack
 
@@ -31,14 +33,14 @@ In CSC 170, you will use slack to:
 - Discuss anything in a threaded chat room-like environment - including posting jokes (#chatter)
 - Setup *private* study groups to stay in communication with whomever you want (private channels can be setup on the fly and then include only people you want to chat with, privately)
 
-BTW - we'll use Blackboard for submitting assignments and checking your grades only
+BTW - we'll use **Blackboard** for submitting assignments and checking your grades only.  Everything else will be done in **Slack**, our **Course Documentation** website (where you are now), and our class web server ([www.**csc170.org**](http://www.csc170.org))
 
 ### Step 1: Create your Slack account for CSC 170
 
 We will use Slack as our primary way to keep in contact with each other, and you'll use Slack to get technical help in lieu of attending an in-person lab
 
 - Go to [join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup) and setup your account (if you haven't already)
-  - Note: in your profile, there are two places to enter your name: your "Full Name" and your "Display Name."  In at least one of those, you need to match whatever is listed in the official registrar so the professor and TAs can find your grades in Blackboard.
+  - Note: in your profile, there are two places to enter your name: your "Full Name" and your "Display Name."  In at least one of those, you need to **match whatever is listed in the official registrar** so the professor and TA can find your grades in Blackboard.
 
 ### Step 2: Introduce Yourself 
 
@@ -62,11 +64,14 @@ The best study groups are made of students with technical skills that compliment
     - Graphic design including photography
     - Other technical/computer skills
   - ...be sure to list courses you're taking or have taken related to these things^
+- Optionally: on someone else's introduction say *Hi* by creating a "thread" 
+  - To create a Thread, hover over the message and then click the *Reply in thread* icon 💬 
 
 ## FTP Account on Our Class Web Server
 
-During a regular, in-person semester you would meet with a TA in your scheduled lab, in-person.  There you would setup your FTP (File Transfer Protocol) account that you will use all semester long to upload your assignment files to our class web server.  
+During a regular, in-person semester you would meet with a TA in your scheduled lab, in-person.  There you would setup your **FTP (File Transfer Protocol) account** that you will use all semester long to upload your assignment files to our class web server.  
 
 Since CSC 170 is now a 100% online class this semester we need to do things differently, so...
 
-- Stand by for further instructions regarding how to setup your FTP account; there will be an announcement in Slack in the next few days
+- Next week you'll get instructions regarding how to setup your FTP account; stand by for that
+
