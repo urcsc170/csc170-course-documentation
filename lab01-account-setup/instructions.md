@@ -1,16 +1,15 @@
 # Lab 1: Account Setup
-*Due: Thursday, February 4, 2021* 
+*Due: Wednesday, May 26, 2021* 
 
 Your assignment is to login and use your account on our class web server and practice the steps to create and upload files to the World Wide Web.
 
 ## Step 1: Get an FTP account
 
-Your **FTP (File Transfer Protocol) account** is what you will use to copy your web files from your computer to the class web server throughout the semester.  To get your account, you will contact your TA via DM in Slack to get it setup.
+Your **FTP (File Transfer Protocol) account** is what you will use to copy your web files from your computer to the class web server throughout the semester.  
 
-- Refer to [this list (linked here)](student-ta.md) to figure out **who is your TA**.
-- Send the following information via DM in Slack to your TA:
+- To get your account, contact your TA via DM in Slack.  Send the following information:
   - Your **UR username** (e.g. rkostin) and a new/made-up **password**
-  - Do *not* share your usual/favorite password with your TA! Create a new password that isn't used anywhere else
+  - Do *not* share your usual/favorite password with your TA! Create a new password that isn't used anywhere else ...and then don't forget it!
 
 - Watch Slack; your TA will reply to your DM with **your FTP login information** that you'll need to keep handy for the rest of the semester
   - NOTE: your password may be different than the one you provided!  The system we're using requires a "strong" password.  If the password you provided isn't strong enough your TA will add characters to it to make it stronger.  

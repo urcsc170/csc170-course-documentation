@@ -1,5 +1,5 @@
 # Lab 2: First HTML Webpage
-*Due: Thursday, February 11, 2021*
+*Due: Friday, May 28, 2021*
 
 The purpose of this assignment is to practice writing basic HTML.
 
