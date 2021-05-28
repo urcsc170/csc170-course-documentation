@@ -11,7 +11,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | 4 | Wednesday, June 2, 2021 | Project 1 Instructions | Project 1 | Project 1 Workshop | No new lab assignment |
 | 5 | Friday, June 4, 2021 | Webpage Presentation, part 1 | Lab 5: CSS for Formatting, part 1 | Webpage Presentation, part 2 | Lab 6: CSS for Formatting, part 2 |
 | 6 | Monday, June 7, 2021 | Webpage Layout, part 1 | No new lab assignment | Webpage Layout, part 2 | Lab 7: CSS for Layout |
-| 7 | Friday, March 9, 1900 | Project 2 Instructions | Project 2 | Project 2 Workshop | No new lab assignment |
+| 7 | Friday, March 9, 2021 | Project 2 Instructions | Project 2 | Project 2 Workshop | No new lab assignment |
 | 8 | Friday, June 11, 2021 | Website Navigation, part 1 | Lab 8: CSS for Navigation | Website Navigation, part 2 | No new lab assignment |
 | 9 | Monday, June 14, 2021 | Images for the Web | Lab 9: Images for the Web | Intro to localhost | No new lab assignment |
 | 10 | Wednesday, June 16, 2021 | Workshop: Localhost Installation | Lab 10: Localhost | Website Construction, part 1 | Lab 11: PHP Includes |
