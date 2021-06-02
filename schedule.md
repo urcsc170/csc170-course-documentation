@@ -8,7 +8,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | 2 | Wednesday, May 26, 2021 | The Internet  ([PDF](02a-the-internet/the-internet.pdf)) | [Lab 1: Account Setup](lab01-account-setup/instructions.md) | Lab 2 Workshop | [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) |
 | 3 | Friday, May 28, 2021 | The Web ([PDF](03a-the-web-and-html/the-web.pdf)) and HTML ([PDF](03a-the-web-and-html/html.pdf)) | [Lab 3: Content Preparation](lab03-content-prep/instructions.md) | Web Document Structure ([PDF](03b-web-document-structure/web-document-structure.pdf))<br>&bull; [Demo file (ZIP)](03b-web-document-structure/demo.zip)<br/>&bull; [The Machine is Us-ing Us (YouTube)](https://youtu.be/NLlGopyXT_g)<br/>&bull; [HTML Semantic Elements (W3schools.com)](https://www.w3schools.com/html/html5_semantic_elements.asp) | [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) |
 | | Monday, May 31, 2021 | Memorial Day | -- | -- | -- |
-| 4 | Wednesday, June 2, 2021 | Project 1 Instructions | Project 1 | Project 1 Workshop | No new lab assignment |
+| 4 | Wednesday, June 2, 2021 | Project 1 Instructions ([PDF](04a-project1-instructions/project1-review.pdf)) | [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) | Project 1 Workshop | No new lab assignment |
 | 5 | Friday, June 4, 2021 | Webpage Presentation, part 1 | Lab 5: CSS for Formatting, part 1 | Webpage Presentation, part 2 | Lab 6: CSS for Formatting, part 2 |
 | 6 | Monday, June 7, 2021 | Webpage Layout, part 1 | No new lab assignment | Webpage Layout, part 2 | Lab 7: CSS for Layout |
 | 7 | Wednesday, June 9, 2021 | Project 2 Instructions | Project 2 | Project 2 Workshop | No new lab assignment |
