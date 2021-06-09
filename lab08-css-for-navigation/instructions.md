@@ -29,7 +29,7 @@ This lab has three parts to it:
 ```html
 <header>
 	<h1>William Shakespeare</h1>
-	<p>That guy who wrote things</p>
+	<div>That guy who wrote things</div>
 </header>
 
 <nav>
