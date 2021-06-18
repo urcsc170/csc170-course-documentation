@@ -3,7 +3,7 @@
 
 For this lab you will integrate the non-working HTML form from Lab 12 into your lab website and power it with a PHP script.
 
-## Step 1: Copy Lab 10
+## Step 1: Copy Lab 11
 
 - Make a copy of your Lab 11 files (*not Lab 12!*) and put them in a folder named **lab13**
   - Note: the best way to work with this lab (and all future labs) is in a *localhost* using a WAMP or MAMP server because your labs use PHP Includes
