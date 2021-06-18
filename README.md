@@ -3,12 +3,12 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Wednesday, June 16, 2021
+## Friday, June 18, 2021
 
-- Lecture 10a: Localhost Installation Workshop
-- [Lab 10: Localhost](lab10-localhost/instructions.md) (due: Wednesday, June 16 *...same day!*)
-- Lecture 10b: Website Construction, part 1 ([PDF](10b-website-construction1/website-construction1.pdf))
-- [Lab 11: PHP Includes](lab11-php-includes/instructions.md) (due: Friday, June 18)
+- Lecture 11a: HTML Forms, part 1 ([PDF](11a-html-forms1/html-forms1.pdf))
+- [Lab 12: HTML Forms, part 1](lab12-html-forms1/instructions.md) (due: Friday, June 18 *...same day!*)
+- Lecture 11b: HTML Forms, part 2 ([PDF](11a-html-forms1/html-forms2.pdf))
+- [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md) (due: Monday, June 21)
 
 *Continue working on...*
 
