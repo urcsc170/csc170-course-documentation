@@ -120,7 +120,7 @@ In this step you will use an existing webpage as a template for a new webpage.
 
 - Download the ZIP'd file: [form_processing_script.zip](form_processing_script.zip) and extract the text file named, **FORM_PROCESSING_SCRIPT.txt** 
 - Copy all the text out of that file (113 lines) and paste it in the TOP of your **form-processor.php** file, *above* the PHP **inc/html-top.php** statement on Line 1
-- Fill-in the blanks in the PHP form processor as demonstrated in the [Lecture 19 video (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b0b2192-376e-47cf-a6e0-ad02012caf6a)
+- Fill-in the blanks in the PHP form processor as demonstrated in the last class.
   - Make sure the superglobals match your `name=""` attributes from your HTML form exactly (remember: case sensitive!)
   - Create variable names for the incoming data that make sense; typically you can use the same word(s) you used in the superglobals, for example `$name = $_POST['name'];`
   - Don't forget to add the value attributes for the checkboxes and radio buttons in the HTML form!
