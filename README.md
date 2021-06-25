@@ -5,9 +5,9 @@ Introduction to Web Development
 
 ## Friday, June 25, 2021
 
-- Lecture 14a: JavaScript Plugins ([PDF](13b-javascript-libraries/javascript-libraries.pdf))
+- Lecture 14a: JavaScript Plugins ([PDF](14a-javascript-plugins/javascript-plugins.pdf))
 - [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Monday, June 28 *...beware: overlaps with Lab 16*)
-- Lecture 14b: Website Construction, part 2 ([PDF](14a-javascript-plugins/javascript-plugins.pdf))
+- Lecture 14b: Website Construction, part 2
 - [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Wednesday, June 30 *...beware: overlaps with Lab 15 and Lab 17*)
 
 *Continue work on...*
