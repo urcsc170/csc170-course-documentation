@@ -3,11 +3,12 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; running list of all the slides, assignments, and related links
 
-## Wednesday, June 23, 2021
+## Friday, June 25, 2021
 
-- Lecture 13a: Webpage Behavior, part 2 ([PDF](13a-webpage-behavior2/dom.pdf) and [demo files.zip](13a-webpage-behavior2/lecture-demos.zip))
-- [Lab 14: JavaScript Basics](lab14-javascript-basics/instructions.md) (due: Friday, June 25)
-- Lecture 13b: JavaScript Libraries ([PDF](13b-javascript-libraries/javascript-libraries.pdf))
+- Lecture 14a: JavaScript Plugins ([PDF](13b-javascript-libraries/javascript-libraries.pdf))
+- [Lab 15: JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Monday, June 28 *...beware: overlaps with Lab 16*)
+- Lecture 14b: Website Construction, part 2 ([PDF](14a-javascript-plugins/javascript-plugins.pdf))
+- [Lab 16: Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: Wednesday, June 30 *...beware: overlaps with Lab 15 and Lab 17*)
 
 *Continue work on...*
 
