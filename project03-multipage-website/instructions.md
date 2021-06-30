@@ -140,7 +140,7 @@ Ideas: in the footer, you can link to your Facebook page, Twitter account, whate
 - In addition to headings for each excerpt,include embedded links that are redundant with the main nav, that also link to the subpages in your website.  
 - **jQuery-Powered Slideshow:** The homepage must have a jQuery slideshow that automatically rotates through at least four images.  The slideshow must be positioned below the HEADER and NAVIGATION and above all other content.  The slideshow must be appropriately sized for the space it fills and work correctly (normally).  
 
-  -  DONOT use giant images in your slideshow
+  -  DO NOT use giant images in your slideshow
   -  Note:it's okay to have the slide show occupy one side of the homepage and have the excerpts (below) along the other side.
 
 Here’s an example of excerpts that lead to subpages. (Notice the text that says “Read more…”)<br>  ![screen shot](media\figure3.png)

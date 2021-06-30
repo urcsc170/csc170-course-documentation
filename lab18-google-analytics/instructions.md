@@ -1,4 +1,4 @@
-# Lab 18: Google Analytics and Webmaster Tools
+# Lab 18: Google Analytics and Google Search Console
 *Due: Friday, July 2, 2021 ...last day*
 
 NOTE: the steps in this lab might not match what you see on the screen because this lab uses a few online, off-the-shelf products that get updated from time-to-time.  If these instructions don't work or leads you down a dead-end path, let the professor know so he can update these instructions.
@@ -43,13 +43,13 @@ Here you will copy the tracking code from Google Analytics and paste it into the
 
 Data will start coming-in to your account immediately or soon. (Visit your own Project 2 from time to time over the next day to make sure there's some data for Google to record.)
 
-# Part II: Google Webmaster Tools
+# Part II: Google Search Console
 
-## Step 1: Login to Google Webmaster tools
+## Step 1: Login to Google Search Console
 
-- Go to **[www.google.com/webmaster/tools](www.google.com/webmaster/tools)**
+- Go to **[search.google.com/search-console](https://search.google.com/search-console)**
 
-Using the same credentials of your Google-registered email address (from Part I), login to Google Webmaster tools.
+Using the same credentials of your Google-registered email address (from Part I), login to Google Search Console.
 
 ## Step 2: Get the URL of your Project 2
 
@@ -58,14 +58,14 @@ You must make sure you get the right URL, so follow these steps...
 - Open another browser window or tab, and go to your Project 2 on the web server
 - When you see your Project 2, copy the web address to your computer's clipboard.
 
-## Step 3: Add Project 2 to Google Webmaster Tools
+## Step 3: Add Project 2 to Google Search Console
 
-- Toggle back to Google Webmaster Tools and click the **ADD A PROPERTY** button. Paste the URL from your Project 2 into the text field and then click **Add**
+- Toggle back to Google Search Console and click the **ADD A PROPERTY** button. Paste the URL from your Project 2 into the text field and then click **Add**
 - Assuming you've successfully added a tracking code to your Project 2 **index.html** file, when you get to the Verify page, simply click the **VERIFY** button, then click **Continue** on the confirmation page.
 
 ## Step 4: Create a Sitemap
 
-- Leaving the web page pointed to Google Webmaster Tools open, start another browser window or tab, and go to: **www.xml-sitemaps.com**
+- Leaving the web page pointed to Google Search Console open, start another browser window or tab, and go to: **[www.xml-sitemaps.com](https://www.xml-sitemaps.com/)**
 - Paste the web address of your Project 2 in the **Your Website URL** box.
 - Scroll down to the **Start** button and click it
 - Click the **VIEW SITEMAP DETAILS** button and then the **DOWNLOAD YOUR XML SITEMAP FILE** button
@@ -81,7 +81,7 @@ You must make sure you get the right URL, so follow these steps...
 
 This step shows you the process for telling Google that your sitemap exists, so your site will be crawled immediately and therefore show-up in SERPs more quickly.  However, we (the TAs and the Professor) can't tell if you actually do this step, so it's *optional*.
 
-1. Go back to the Site Dashboard in Google Webmaster Tools
+1. Go back to the Site Dashboard in Google Search Console
 2. Click the **Sitemaps** bar (the third column)
 3. On the Sitemaps page, click the button: **ADD/TEST SITEMAP**
 4. In the pop-up, type-in **sitemap.xml**
